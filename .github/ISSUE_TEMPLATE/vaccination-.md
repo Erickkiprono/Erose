@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-
+We provide vaccination to bovines, scabines, ovines..
